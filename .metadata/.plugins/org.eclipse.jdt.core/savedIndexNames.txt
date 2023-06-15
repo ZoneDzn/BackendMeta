@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Projetos\ws-react\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2729984199.index
+310082436.index
